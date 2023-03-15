@@ -1,6 +1,5 @@
-# Kulkarni-et-al.-2023
-# Title   
-## Associations between dairy farm performance indicators and culling rates under policy driven herd size constraints
+
+# Associations between dairy farm performance indicators and culling rates under policy driven herd size constraints
 
 ## Kulkarni PS ^, Mourits MCM, Nielen M, Steeneveld W
 ^ corresponding author
