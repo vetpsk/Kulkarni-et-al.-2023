@@ -1,6 +1,6 @@
 library(tidyverse)
 
-setwd("/Users/pranavkulkarni/OneDrive - Universiteit Utrecht/Paper 2/risk-of-replacement/data/inter/merged variable selection")
+setwd("/.")
 merged_18 <- read.csv("./merged_18.csv", header = T)
 merged_18$UBN <- as.character(merged_18$UBN)
 
